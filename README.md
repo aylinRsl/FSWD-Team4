@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 "" 
 "Test: Verbindung mit VSCode funktioniert" 
 =======
@@ -11,5 +11,3 @@
 * Narin Edebali
 
 
-  
->>>>>>> 169c264efe498facdbc35499a309f88259fd6e1e
