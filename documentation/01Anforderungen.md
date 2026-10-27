@@ -9,7 +9,7 @@
 > 
 
 ### Nastasya Bernadette
->
+> Ich möchte das Projekt erfolgreich abschließen und eine gute Note erzielen. Gleichzeitig ist es mir wichtig, nicht nur die Anforderungen zu erfüllen, sondern auch möglichst viel daraus zu lernen. Ich möchte mein bisheriges Wissen anwenden und neue Programmierkenntnisse sammeln und verstehen.
 
 ### Narin Edebali
 > 
