@@ -2,7 +2,7 @@
 ## Repository der Gruppe 04
 ### Gruppenmitglieder:
 * Aylin Rasul Cervino
-* Miriam KouweiderTest
+* Miriam Kouweider
 * Nastasya Bernadette
 * Narin Edebali
 
