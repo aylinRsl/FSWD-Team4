@@ -1,2 +1,10 @@
 # FSWD-Team4
-Repository der Gruppe 04
+## Repository der Gruppe 04
+### Gruppenmitglieder:
+* Aylin Rasul Cervino
+* Miriam Kouweider
+* Nastasya Bernadette
+* Narin Edebali
+
+
+  
