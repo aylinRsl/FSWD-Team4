@@ -1,7 +1,3 @@
-
-"" 
-"Test: Verbindung mit VSCode funktioniert" 
-=======
 # FSWD-Team4
 ## Repository der Gruppe 04
 ### Gruppenmitglieder:
