@@ -15,5 +15,32 @@
 > 
 
 
-## Über das Projekt
-(Namen ausdenken!!!)
+## Über das Projekt - Value Proposition
+>(Namen ausdenken!!!) - Eine Plattform für gegenseitige Unterstützung, Vernetzung und Gemeinschaft in Studierendenwohnheimen.
+
+### Aktuelles Problem:
+In Studierendenwohnheimen entstehen alltäglich __kleine Probleme__, bei denen es praktisch wäre, Hilfe von anderen Personen anzufordern statt professionelle Dienstleister\*Innen anzuheuern. Bei Dingen wie Möbelaufbau, Ausleihen von Werkzeug, Entgegennehmen von Paketen, Lost and Found, etc. können oft Mitmenschen behilflich sein. Einfach nach Hilfe von anderen zu fragen kann jedoch mit Unsicherheiten verbunden sein, wenn noch kein direkter Kontakt besteht.
+
+### Wie möchten wir das Problem lösen?
+Unsere Plattform soll solche Informationen an einem einheitlichen Ort bündeln, sodass sich die Studierenden untereinander vernetzen können. 
+Bewohner\*Innen können:
+* __Hilfe anbieten oder suchen__ - z.B. beim Möbelaufbau oder technischen Problemen
+* __verlorene Gegenstände__ wiederfinden oder gefundene Dinge melden
+* __Tools und Skills__ miteinander teilen 
+* Direkt miteinander __kommunizieren__ und sich unterstützen
+
+Dabei muss Hilfe nicht immer auf einer sofortigen Gegenleistung beruhen, wer beispielsweise heute jemanden unterstützt erhält morgen vielleicht selbst Hilfe. Auch ein selbst gekochtes Essen oder eine kleine Aufmerksamkeit kann Dankbarkeit zum Ausdruck bringen.
+
+### Was ist der Mehrwert?
+Durch die Plattform (Name) wird die __Hilfsbereitschaft sichtbar__ und die Kontaktaufnahme sowie __Vernetzung innerhalb der Community__ ermöglicht. Nutzer\*Innen können somit Geld und Zeit sparen, da sie keine zahlungspflichtigen Dienstleistungen in Anspruch nehmen müssen. Sie soll ebenfalls dabei helfen, Unsicherheiten und sozialer Isolation entgegenzuwirken, denn oft ist es schwierig, __persönliche Beziehungen oder ein Gefühl von Gemeinschaft__ aufzubauen, insbesondere wenn man neu in einer Stadt ist und noch niemanden kennt.
+
+Die Plattform soll also nicht nur praktische, alltägliche Probleme unkompliziert lösen sondern auch das Gemeinschaftsgefühl stärken, soziale Hemmschwellen abbauen und den Nutzer\*Innen das Gefühl vermitteln, __Teil einer unterstützenden Community__ zu sein. Somit soll dazu beigetragen werden, dass das Wohnheim sich wie ein Zuhause anfühlt.
+
+### Was sind unsere Ideen für eine technische Umsetzung?
+Unsere Plattform wird folgende Kernfunktionen bieten:
+* __Registrierung und Login__ für einen geschützten Zugang
+* __Identitätsprüfung__ damit nur berechtigte Bewohner\*Innen Zugriff auf Inhalte des Wohnheims haben
+* __Beiträge erstellen und kategorisieren__ , beispielsweise für gesuchte Hilfe, Hilfsangebote oder verlorene und gefundene Gegenstände
+* __Suchen und filtern__ um relevante Beiträge zu finden
+* __Privatnachrichten__ zum direkten Austausch
+* __Statusverwaltung__ z.B. offen oder erledigt
