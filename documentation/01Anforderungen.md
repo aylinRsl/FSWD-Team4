@@ -6,7 +6,7 @@
 > Meine angestrebte Note ist im guten Einserbereich. Mein Ziel ist es, am Ende des Projekts mein theoretisches Wissen anwenden und verknüpfen zu können. Insbesondere möchte ich technisch sauber sowie realitätsgetreu Arbeiten und dabei so viel wie möglich über wichtige Programmier-Prinzipien mitnehmen.
 
 ### Miriam Kouweider
-> Mein Ziel ist es, das Modul erfolgreich abzuschließen. Genauso wichtig ist mir jedoch, die Inhalte wirklich zu verstehen, sodass ich auch nach Abschluss des Moduls eigenständig eine Website mit Datenbankanbindung entwickeln kann. Dabei möchte ich nicht nur die praktische Umsetzung beherrschen, sondern auch die technischen Zusammenhänge verstehen, da diese Kenntnisse bereits an meinem Arbeitsplatz gefragt sind.Außerdem sehe ich das Modul als Chance, ein eigenes GitHub-Portfolio aufzubauen.
+> Mein Ziel ist es, das Modul erfolgreich abzuschließen. Genauso wichtig ist mir jedoch, die Inhalte wirklich zu verstehen, sodass ich nach Abschluss des Moduls eigenständig eine Website mit Datenbankanbindung entwickeln kann. Dabei möchte ich insebsondere die technischen Zusammenhänge verstehen, da diese Kenntnisse bereits an meinem Arbeitsplatz gefragt sind. Außerdem sehe ich das Modul als Chance, ein eigenes GitHub-Portfolio aufzubauen.
 
 ### Nastasya Bernadette
 > Ich möchte das Projekt erfolgreich abschließen und eine gute Note erzielen. Gleichzeitig ist es mir wichtig, nicht nur die Anforderungen zu erfüllen, sondern auch möglichst viel daraus zu lernen. Ich möchte mein bisheriges Wissen anwenden und neue Programmierkenntnisse sammeln und verstehen.
@@ -32,14 +32,15 @@ Bewohner\*Innen können:
 Dabei muss Hilfe nicht immer auf einer sofortigen Gegenleistung beruhen, wer beispielsweise heute jemanden unterstützt erhält morgen vielleicht selbst Hilfe. Auch ein selbst gekochtes Essen oder eine kleine Aufmerksamkeit kann Dankbarkeit zum Ausdruck bringen.
 
 ### Was ist der Mehrwert?
-Durch die Plattform (Name) wird die __Hilfsbereitschaft sichtbar__ und die Kontaktaufnahme sowie __Vernetzung innerhalb der Community__ ermöglicht. Nutzer\*Innen können somit Geld und Zeit sparen, da sie keine zahlungspflichtigen Dienstleistungen in Anspruch nehmen müssen. Sie soll ebenfalls dabei helfen, Unsicherheiten und sozialer Isolation entgegenzuwirken, denn oft ist es schwierig, __persönliche Beziehungen oder ein Gefühl von Gemeinschaft__ aufzubauen, insbesondere wenn man neu in einer Stadt ist und noch niemanden kennt.
+Durch die Plattform (Name) wird die __Hilfsbereitschaft sichtbar__ und die Kontaktaufnahme sowie __Vernetzung innerhalb der Community__ ermöglicht. Nutzer\*Innen können somit Geld und Zeit sparen, da sie keine zahlungspflichtigen Dienstleistungen in Anspruch nehmen müssen. Sie soll ebenfalls dabei helfen, Unsicherheiten und sozialer Isolation entgegenzuwirken, denn oft ist es schwierig, __persönliche Beziehungen oder ein Gefühl von Gemeinschaft__ aufzubauen, insbesondere wenn man neu in einer Stadt ist und noch niemanden kennt, was in Studierendenwohnheime häufig vorkommt.
 
 Die Plattform soll also nicht nur praktische, alltägliche Probleme unkompliziert lösen sondern auch das Gemeinschaftsgefühl stärken, soziale Hemmschwellen abbauen und den Nutzer\*Innen das Gefühl vermitteln, __Teil einer unterstützenden Community__ zu sein. Somit soll dazu beigetragen werden, dass das Wohnheim sich wie ein Zuhause anfühlt.
 
 ### Was sind unsere Ideen für eine technische Umsetzung?
 Unsere Plattform wird folgende Kernfunktionen bieten:
 * __Registrierung und Login__ für einen geschützten Zugang
-* __Identitätsprüfung__ damit nur berechtigte Bewohner\*Innen Zugriff auf Inhalte des Wohnheims haben
+* __Identitätsprüfung__ damit nur berechtigte Bewohner\*Innen Zugriff auf Inhalte des Wohnheims habenc
+
 * __Beiträge erstellen und kategorisieren__ , beispielsweise für gesuchte Hilfe, Hilfsangebote oder verlorene und gefundene Gegenstände
 * __Suchen und filtern__ um relevante Beiträge zu finden
 * __Privatnachrichten__ zum direkten Austausch
