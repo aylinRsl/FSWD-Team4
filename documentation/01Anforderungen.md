@@ -12,8 +12,8 @@
 > Ich möchte das Projekt erfolgreich abschließen und eine gute Note erzielen. Gleichzeitig ist es mir wichtig, nicht nur die Anforderungen zu erfüllen, sondern auch möglichst viel daraus zu lernen. Ich möchte mein bisheriges Wissen anwenden und neue Programmierkenntnisse sammeln und verstehen.
 
 ### Narin Edebali
-> 
-
+> Meine Angestrebte Note ist im einser und zweier Bereich. Außerdem möchte ich die Anforderungen des Projekts umsetzen und eine funktionierende Webanwendung entwickeln.
+Ich möchte auch meine Kenntnisse in der Webentwicklung erweitern und lernen, wie man eine Webanwendung gemeinsam im Team entwickelt. Dabei möchte ich auch meine Fähigkeiten in der Programmierung mit Python und mit GitHub verbessern. 
 
 ## Über das Projekt - Value Proposition
 >(Namen ausdenken!!!) - Eine Plattform für gegenseitige Unterstützung, Vernetzung und Gemeinschaft in Studierendenwohnheimen.
