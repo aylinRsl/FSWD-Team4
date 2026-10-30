@@ -2,7 +2,7 @@
 ## Repository der Gruppe 04
 
 ### Projektbeschreibung:
-> (Namen ausdenken!!!) ist eine Webplattform für Studierende in Wohnheimen, die gegenseitige Alltagshilfe und soziale Vernetzung erleichtert. Nutzer\*Innen können Hilfe suchen und anbieten, verlorene Gegenstände melden und direkt miteinander in Kontakt treten.
+> StudyNest ist eine Webplattform für Studierende in Wohnheimen, die gegenseitige Alltagshilfe und soziale Vernetzung erleichtert. Nutzer\*Innen können Hilfe suchen und anbieten, verlorene Gegenstände melden und direkt miteinander in Kontakt treten.
 
 ### Geplante Features:
 * __Hilfe anbieten oder suchen__ - z.B. beim Möbelaufbau oder technischen Problemen
